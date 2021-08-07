@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.exe
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.deps.json
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.dll
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\bin\Debug\netcoreapp3.1\Harmonic Number.pdb
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.dll
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.pdb
+C:\Users\ADVANCED\Desktop\New folder\Harmonic Number\Harmonic Number\obj\Debug\netcoreapp3.1\Harmonic Number.genruntimeconfig.cache
