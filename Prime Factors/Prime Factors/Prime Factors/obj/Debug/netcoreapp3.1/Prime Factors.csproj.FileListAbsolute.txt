@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.exe
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.deps.json
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.dll
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\bin\Debug\netcoreapp3.1\Prime Factors.pdb
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.dll
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.pdb
+C:\Users\ADVANCED\Desktop\New folder\Prime Factors\Prime Factors\obj\Debug\netcoreapp3.1\Prime Factors.genruntimeconfig.cache
